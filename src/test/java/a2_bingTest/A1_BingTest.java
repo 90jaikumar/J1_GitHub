@@ -29,7 +29,7 @@ public class A1_BingTest {
 		FileHandler.copy(src, new File("E:\\Java Selenium - Jai\\Vcentry\\Batch252\\J1_GitHubTest\\screenshot\\bing.png"));
 	    
 	
-		wd.quit();
+		wd.quit(); 
 	}
 
 }
